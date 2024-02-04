@@ -27,10 +27,12 @@ Ru:
 5) Создать таблицы в базе данных нажатием кнопки "Create tables" на странице Settings
 
 
-
-F_ZM.png
-
-F8U-JbIXkAA4dTC.pngF991.jpg
+[
+<a href="https://ibb.co/z29V2h1"><img src="https://i.ibb.co/z29V2h1/F-ZM.png" alt="F-ZM" border="0"></a>
+)
+<a href="https://ibb.co/1r4p72Y"><img src="https://i.ibb.co/1r4p72Y/F991.jpg" alt="F991" border="0"></a>
+)
+<a href="https://ibb.co/RcWqWKW"><img src="https://i.ibb.co/RcWqWKW/F8-U-Jb-IXk-AA4d-TC.png" alt="F8-U-Jb-IXk-AA4d-TC" border="0"></a>
 
 Panel v.4.03 mit Plugins
 
