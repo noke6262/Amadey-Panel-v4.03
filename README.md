@@ -1,5 +1,7 @@
 # Amadey-Panel-v4.03
 
+<a href="https://ibb.co/z29V2h1"><img src="https://i.ibb.co/C9CK95q/F-ZM.png" alt="F-ZM" border="0"></a>
+
 En:
 
 1) Upload files to a web server
@@ -28,11 +30,10 @@ Ru:
 
 
 [
-<a href="https://ibb.co/z29V2h1"><img src="https://i.ibb.co/z29V2h1/F-ZM.png" alt="F-ZM" border="0"></a>
+<a href="https://ibb.co/RcWqWKW"><img src="https://i.ibb.co/jDFSFYF/F8-U-Jb-IXk-AA4d-TC.png" alt="F8-U-Jb-IXk-AA4d-TC" border="0"></a>
 )
-<a href="https://ibb.co/1r4p72Y"><img src="https://i.ibb.co/1r4p72Y/F991.jpg" alt="F991" border="0"></a>
+<a href="https://ibb.co/1r4p72Y"><img src="https://i.ibb.co/y6xMdsm/F991.jpg" alt="F991" border="0"></a>
 )
-<a href="https://ibb.co/RcWqWKW"><img src="https://i.ibb.co/RcWqWKW/F8-U-Jb-IXk-AA4d-TC.png" alt="F8-U-Jb-IXk-AA4d-TC" border="0"></a>
 
 Panel v.4.03 mit Plugins
 
